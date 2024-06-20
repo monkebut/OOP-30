@@ -1,0 +1,10 @@
+C:\Users\jeka0\Downloads\OOP_30-master\OOP_30\bin\Debug\lab 30 KolV.exe.config
+C:\Users\jeka0\Downloads\OOP_30-master\OOP_30\bin\Debug\lab 30 KolV.exe
+C:\Users\jeka0\Downloads\OOP_30-master\OOP_30\bin\Debug\lab 30 KolV.pdb
+C:\Users\jeka0\Downloads\OOP_30-master\OOP_30\obj\Debug\OOP_30.csproj.AssemblyReference.cache
+C:\Users\jeka0\Downloads\OOP_30-master\OOP_30\obj\Debug\OOP_30.Form1.resources
+C:\Users\jeka0\Downloads\OOP_30-master\OOP_30\obj\Debug\lab_30_KolV.Properties.Resources.resources
+C:\Users\jeka0\Downloads\OOP_30-master\OOP_30\obj\Debug\OOP_30.csproj.GenerateResource.cache
+C:\Users\jeka0\Downloads\OOP_30-master\OOP_30\obj\Debug\OOP_30.csproj.CoreCompileInputs.cache
+C:\Users\jeka0\Downloads\OOP_30-master\OOP_30\obj\Debug\lab 30 KolV.exe
+C:\Users\jeka0\Downloads\OOP_30-master\OOP_30\obj\Debug\lab 30 KolV.pdb
